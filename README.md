@@ -1,19 +1,20 @@
 <h1>Hi 👋, I'm Lilian</h1>
+
 <h3>A passionate software engineer from France_x_USA</h3>
 
 - 📫 How to reach me lilian.jallageas (gmail)
-- 📫 I live in San Francisco, and work on EST timezone
+- :house: I live in San Francisco, and work on :clock230: EST timezone
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/lilianjallageas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilianjallageas" height="30" width="40" />
-  </a>
-</p>
+<h3 align="left">Projects</h3>
+
+- :zap: <a href="https://www.flashmath.app/" target="blank">FlashMath.app</a>
+- :clapper: <a href="https://www.timecodetools.com/" target="blank">Timecode Tools (Calculator & Converter)</a>
+- :scissors: <a href="https://lilianjallageas.github.io/shortcutlist.net/#/" target="blank">Shortcut List</a>
+- :ballot_box: <a href="https://lilianjallageas.github.io/jsonlint/" target="blank">JSON lint</a>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -51,6 +52,14 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+</p>
+
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/lilianjallageas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilianjallageas" height="30" width="40" />
   </a>
 </p>
 
